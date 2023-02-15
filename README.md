@@ -1,3 +1,4 @@
+https://user-images.githubusercontent.com/7485678/219089373-18906d4f-a5ab-4a92-936b-ee8126028525.mov
 # GPT_Voice_Assistant
 基于openAI GPT实现的智能交互语音助手,产品主要涉及四个任务：语音唤醒，语音识别，GPT对话，文本转语音
 
